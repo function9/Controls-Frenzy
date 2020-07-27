@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BomberFrenzy.data.unityweb",
+"asmCodeUrl": "BomberFrenzy.asm.code.unityweb",
+"asmMemoryUrl": "BomberFrenzy.asm.memory.unityweb",
+"asmFrameworkUrl": "BomberFrenzy.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
