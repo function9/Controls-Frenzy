@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Controls-Frenzy/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Controls-Frenzy/static/js/main.9de320fd.chunk.js",
-    "main.js.map": "/Controls-Frenzy/static/js/main.9de320fd.chunk.js.map",
+    "main.js": "/Controls-Frenzy/static/js/main.a5781043.chunk.js",
+    "main.js.map": "/Controls-Frenzy/static/js/main.a5781043.chunk.js.map",
     "runtime-main.js": "/Controls-Frenzy/static/js/runtime-main.6b65694c.js",
     "runtime-main.js.map": "/Controls-Frenzy/static/js/runtime-main.6b65694c.js.map",
     "static/css/2.bb4ba17c.chunk.css": "/Controls-Frenzy/static/css/2.bb4ba17c.chunk.css",
-    "static/js/2.24ef421b.chunk.js": "/Controls-Frenzy/static/js/2.24ef421b.chunk.js",
-    "static/js/2.24ef421b.chunk.js.map": "/Controls-Frenzy/static/js/2.24ef421b.chunk.js.map",
+    "static/js/2.4fc54358.chunk.js": "/Controls-Frenzy/static/js/2.4fc54358.chunk.js",
+    "static/js/2.4fc54358.chunk.js.map": "/Controls-Frenzy/static/js/2.4fc54358.chunk.js.map",
     "index.html": "/Controls-Frenzy/index.html",
-    "precache-manifest.315f14088100be3a00a3d7ce0ba7fef9.js": "/Controls-Frenzy/precache-manifest.315f14088100be3a00a3d7ce0ba7fef9.js",
+    "precache-manifest.be82f8e961f6f1ce90f83c129aa618ce.js": "/Controls-Frenzy/precache-manifest.be82f8e961f6f1ce90f83c129aa618ce.js",
     "service-worker.js": "/Controls-Frenzy/service-worker.js",
     "static/css/2.bb4ba17c.chunk.css.map": "/Controls-Frenzy/static/css/2.bb4ba17c.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Controls-Frenzy/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.24ef421b.chunk.js.LICENSE.txt": "/Controls-Frenzy/static/js/2.24ef421b.chunk.js.LICENSE.txt"
+    "static/js/2.4fc54358.chunk.js.LICENSE.txt": "/Controls-Frenzy/static/js/2.4fc54358.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6b65694c.js",
     "static/css/2.bb4ba17c.chunk.css",
-    "static/js/2.24ef421b.chunk.js",
+    "static/js/2.4fc54358.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.9de320fd.chunk.js"
+    "static/js/main.a5781043.chunk.js"
   ]
 }
