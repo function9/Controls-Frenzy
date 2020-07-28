@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Controls-Frenzy/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Controls-Frenzy/static/js/main.a36a452d.chunk.js",
-    "main.js.map": "/Controls-Frenzy/static/js/main.a36a452d.chunk.js.map",
+    "main.js": "/Controls-Frenzy/static/js/main.702925ab.chunk.js",
+    "main.js.map": "/Controls-Frenzy/static/js/main.702925ab.chunk.js.map",
     "runtime-main.js": "/Controls-Frenzy/static/js/runtime-main.6b65694c.js",
     "runtime-main.js.map": "/Controls-Frenzy/static/js/runtime-main.6b65694c.js.map",
     "static/css/2.bb4ba17c.chunk.css": "/Controls-Frenzy/static/css/2.bb4ba17c.chunk.css",
     "static/js/2.24ef421b.chunk.js": "/Controls-Frenzy/static/js/2.24ef421b.chunk.js",
     "static/js/2.24ef421b.chunk.js.map": "/Controls-Frenzy/static/js/2.24ef421b.chunk.js.map",
     "index.html": "/Controls-Frenzy/index.html",
-    "precache-manifest.f95c76cdcc9a5ada20a79724a565c1e7.js": "/Controls-Frenzy/precache-manifest.f95c76cdcc9a5ada20a79724a565c1e7.js",
+    "precache-manifest.0a1015e9e1996ddabbb9a6e3c58a3635.js": "/Controls-Frenzy/precache-manifest.0a1015e9e1996ddabbb9a6e3c58a3635.js",
     "service-worker.js": "/Controls-Frenzy/service-worker.js",
     "static/css/2.bb4ba17c.chunk.css.map": "/Controls-Frenzy/static/css/2.bb4ba17c.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Controls-Frenzy/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.bb4ba17c.chunk.css",
     "static/js/2.24ef421b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.a36a452d.chunk.js"
+    "static/js/main.702925ab.chunk.js"
   ]
 }
