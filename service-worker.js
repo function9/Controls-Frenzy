@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Controls-Frenzy/precache-manifest.5c3de0ec7330c9b9061b135af96aeba8.js"
+  "/Controls-Frenzy/precache-manifest.be84303ec54ea886dc41dd97615e161f.js"
 );
 
 self.addEventListener('message', (event) => {
